@@ -1,0 +1,101 @@
+.navbar-brand img{width: 100px;}
+
+#link-verde{color: #25a342;}
+
+#barra-gris{background-color: #353a40;}
+
+.carousel-item img {filter: brightness(50%);
+    height: 500px;}
+
+#boton-verde{
+    background-color: #25a342;
+    border-color: #25a342;}
+
+#barra-footer{background-color: #1c3846;}
+
+#texto-chico {
+    text-align: center;
+    font-size: 13px;
+    line-height: 1.8;
+  }
+  
+#texto-grande {
+    text-align: center;
+    font-size: 30px;
+    line-height: 0.1;
+    text-decoration-style: bold;
+  }
+
+ h5{
+    text-align: left;
+    color: black;
+ } 
+
+ #borde-columna{border: #1c3846;}
+ 
+.tag {
+    float: left;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin: 2px; 
+    border-radius: 5px;
+  }
+
+.div1 {
+    background: #ffc207;
+    
+}
+  
+.div2 {
+    background: #17a2b9;
+}
+  
+.div3 {
+    background: #6c757e;
+}
+
+.div4 {
+    background: #dc3546;
+}
+
+#text-tag {
+    font-size: 12px;
+    text-decoration-style: bold;
+    color: black;
+ }
+
+#text-tag-bco {
+    font-size: 12px;
+    text-decoration-style: bold; 
+    color: white;
+ } 
+
+.col-height{
+    height: 380px;
+    width: 100%;
+}
+
+.card-title{
+    text-align: left;
+    color: white;
+    margin-top: 20px;
+}
+
+.card-text{
+    text-align: left;
+    color: white;
+    margin-top: 15px;
+    font-size: 12px;
+}
+
+#comentario{
+    color: grey;
+    font-size: 12px;
+}
+
+#boton-enviar{
+    background-color: #96c93e;
+    border-color: #96c93e;
+}
