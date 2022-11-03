@@ -99,3 +99,32 @@
     background-color: #96c93e;
     border-color: #96c93e;
 }
+
+.card-titulo{
+    text-align: center;
+    margin-top: 20px;
+}
+
+#card-categoria{
+    border-radius: 0;
+    border-width: 2px;
+}
+
+.error {
+    width : 100%;
+    padding: 0;  
+    font-size: 80%;
+    color: red;
+  }
+
+#btnBorrar{
+    background-color: #96c93e;
+    border-color: #96c93e;
+    color: white;
+}
+
+#btnResumen{
+    background-color: #96c93e;
+    border-color: #96c93e;
+    color: white;
+}
