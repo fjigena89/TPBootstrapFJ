@@ -114,6 +114,12 @@ function quitarClaseError()
 function limpiarForm()
 {
     quitarClaseError();
+    nombre.value="";
+    apellido.value="";
+    mail.value="";
+    cantTickets.value="";
+    categoria.value="-- Seleccione --";
+    error.value="";
     totalPago.innerHTML="Total a Pagar: $";
 }
 
